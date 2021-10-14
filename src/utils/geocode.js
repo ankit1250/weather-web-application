@@ -1,4 +1,4 @@
-const request = require('../../../weather_app/node_modules/request')
+const request = require('request')
 
 
 const geocode= (address,callback)=>{
